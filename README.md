@@ -57,7 +57,7 @@
 ```     
 ### ⚙️ GitHub Analytics
 
-[![](https://github-readme-stats.vercel.app/api?username=jomyg&show_icons=true&theme=tokyonight&hide_border=true&width=100%&locale=en)](https://github.com/jomyg)
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=jomyg&theme=tokyonight&hide_border=true&width=100%)](https://github.com/jomyg)
 
 ### ⚙️ 
