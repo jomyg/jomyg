@@ -15,11 +15,11 @@
 ---
 - Name: Jomy George
 
-  > Cloud platform:
-  > AWS Cloud
-  > Cloudstack
+     - Cloud platform:
+        - AWS Cloud
+        - Cloudstack
         
- >  Operating Systems:
+     - Operating Systems:
         - RedHat
         - Ubuntu
         - CentOS
