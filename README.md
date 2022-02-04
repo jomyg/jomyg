@@ -16,8 +16,8 @@
 - Name: Jomy George
 
   > Cloud platform:
-        - AWS Cloud
-        - Cloudstack
+  > AWS Cloud
+  > Cloudstack
         
  >  Operating Systems:
         - RedHat
