@@ -53,5 +53,3 @@
         - Nagios
         - Centreon
  
-``` 
-```
