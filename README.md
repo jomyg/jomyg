@@ -2,6 +2,10 @@
 
 ##### Welcome All,
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jomygeorge11)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/the_realjomy)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/therealjomy/)
+
 ###### Qualified AWS, RHCE, and MCSE Cloud system Engineer with experience in Linux and windows based platforms. Effectively plan, install and configure the requirements to achieve high availability and performance. Proven ability to create and deliver solutions tied to business growth, organizational development, and server optimization. Skilled problem identifier and trouble-shooter.
 
 <br>
