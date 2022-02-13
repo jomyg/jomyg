@@ -1,5 +1,5 @@
 ## Hi Guys,
-
+![](https://visitor-badge.laobi.icu/badge?page_id=jomyg)
 ##### Welcome All,
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jomygeorge11)
