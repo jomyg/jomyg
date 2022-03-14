@@ -48,7 +48,13 @@
 
     - Containerization:
         - Docker
-
+    
+    - Secrets Management Tool:
+        - HashiCorp Vault
+        
+    - OCI compatible Image Builder:
+        - Buildah
+        
     - Project Management Tool:
         - GitHub
         
