@@ -42,27 +42,33 @@
         
     - Machine Image As a Code: 
         - Packer
+        - Buildah
         
     - Source Code Management/Version Control:
         - GitHub
+        - Git
 
     - Containerization:
         - Docker
+        - ECR - ECS
     
     - Secrets Management Tool:
         - HashiCorp Vault
         
-    - OCI compatible Image Builder:
-        - Buildah
         
     - Project Management Tool:
         - GitHub
+        - Gitlab
         
     - Monitoring Tools:
         - AWS CloudWatch
         - Grafana
         - Nagios
         - Centreon
+        
+    - CI / CD
+        - Jenkins
+        - Code Pipeline
  
 ```
 <img alt="Awesome GitHub Profile Readme" src="DEVOPS.gif"> </img>
