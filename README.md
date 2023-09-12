@@ -20,12 +20,11 @@
 
      - Cloud platform:
         - AWS Cloud
+        - Azure
         - Cloudstack
         
      - Operating Systems:
-        - RedHat
-        - Ubuntu
-        - CentOS
+        - Linux
         - Windows
         
     - Scripting Languages:
@@ -36,6 +35,7 @@
         - Terraform
         - Ansible
         - AWS CloudFormation
+        - Azure RM
         
     - Software Provisioning/Configuration Management:
         - Ansible
@@ -46,29 +46,32 @@
         
     - Source Code Management/Version Control:
         - GitHub
-        - Git
+        - GitLab
+        - Azure DevOps
 
     - Containerization:
         - Docker
-        - ECR - ECS
+        - AWS ECS
     
     - Secrets Management Tool:
         - HashiCorp Vault
-        
+        - Azure Keyvault
+        - Aws Key Management     
         
     - Project Management Tool:
-        - GitHub
-        - Gitlab
+        - Azure DevOps
         
     - Monitoring Tools:
         - AWS CloudWatch
         - Grafana
         - Nagios
         - Centreon
+        - Azure Application insights
         
     - CI / CD
         - Jenkins
         - Code Pipeline
+        - Azure DevOps
  
 ```
 <img alt="Awesome GitHub Profile Readme" src="DEVOPS.gif"> </img>
