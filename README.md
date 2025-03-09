@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/the_realjomy)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/therealjomy/)
 
-###### Qualified AWS, RHCE, and MCSE Cloud system Engineer with experience in Linux and windows based platforms. Effectively plan, install and configure the requirements to achieve high availability and performance. Proven ability to create and deliver solutions tied to business growth, organizational development, and server optimization. Skilled problem identifier and trouble-shooter.
+###### Qualified Azure, AWS, RHCE, and MCSE Cloud system Engineer with experience in Linux and Windows-based platforms. Effectively plan, install and configure the requirements to achieve high availability and performance. Proven ability to create and deliver solutions tied to business growth, organizational development, and server optimization. Skilled problem identifier and troubleshooter.
 <center><img alt="" src=""> </img></center>
 
 <br>
@@ -20,7 +20,7 @@
 
      - Cloud platform:
         - AWS Cloud
-        - Azure
+        - Azure Cloud
         - Cloudstack
         
      - Operating Systems:
@@ -31,7 +31,7 @@
         - Bash
         - Python 
         
-    - Infrastucture As a Code:
+    - Infrastructure as a Code:
         - Terraform
         - Ansible
         - AWS CloudFormation
@@ -56,7 +56,8 @@
     - Secrets Management Tool:
         - HashiCorp Vault
         - Azure Keyvault
-        - Aws Key Management     
+        - Aws Key Management
+        - Github Secrets     
         
     - Project Management Tool:
         - Azure DevOps
@@ -72,6 +73,7 @@
         - Jenkins
         - Code Pipeline
         - Azure DevOps
+        - Github Actions 
  
 ```
 <img alt="Awesome GitHub Profile Readme" src="DEVOPS.gif"> </img>
